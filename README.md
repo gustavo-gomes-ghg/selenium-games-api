@@ -1,4 +1,4 @@
-# patada-api NodeJS
+# selenium-games-api NodeJS
 
 
 1) Download or clone the project source code from [github](https://github.com/gustavo-gomes-ghg/selenium-games-api.git)
