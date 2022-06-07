@@ -63,7 +63,7 @@ function model(sequelize) {
         }
     };
 
-    return sequelize.define('News', attributes, options);
+    return sequelize.define('news_ng', attributes, options);
 }
 
 function serialize(input) {
